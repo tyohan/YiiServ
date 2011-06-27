@@ -1,0 +1,1 @@
+This is an extension for Yii Framework that inspired from ExpressJS on NodeJS. It's extend phpsocketdaemon library to running replace web server function. So your application will have it's own webserver.  
