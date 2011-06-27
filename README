@@ -1,1 +1,6 @@
 This is an extension for Yii Framework that inspired from ExpressJS on NodeJS. It's extend phpsocketdaemon library to running replace web server function. So your application will have it's own webserver.  
+
+HOW TO USE:
+
+Copy the yiiserv directory to extension directory at protected/extensions
+Use index.php for your web application root file. Replace the index.php on your file but don't forget to pointing the Yii Framework path to it's right path.
